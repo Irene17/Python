@@ -1,5 +1,7 @@
-# Python this is my read me
-This is my readme :)
-# Irene
-## Irene
-### Irene
+Python 101
+
+### Snake Game
+https://www.edureka.co/blog/snake-game-with-pygame/
+
+### Python for beginers
+https://www.programiz.com/python-programming/input-output-import
