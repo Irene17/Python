@@ -1,4 +1,4 @@
- #Python Tools
+ # Python Tools
 
 #### Snake Game
 - https://www.edureka.co/blog/snake-game-with-pygame/
