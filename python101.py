@@ -3,4 +3,8 @@ print ('False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break'
 
 print("Variables")
 a = 1
-print (a)
+print (a + 3)
+b = 20
+print ( b + 20 )
+print ( b + 20 - a )
+
