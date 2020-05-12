@@ -21,6 +21,8 @@ name = 'SERVICE_CLOUD_ACCOUNTS'
 new_name = name.title().replace('_', ' ')
 print(new_name)
 
+print ( " if else Statement")
+
 a = 1
 b = 2
 if a < b :
