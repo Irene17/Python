@@ -21,3 +21,9 @@ name = 'SERVICE_CLOUD_ACCOUNTS'
 new_name = name.title().replace('_', ' ')
 print(new_name)
 
+a = 1
+b = 2
+if a < b :
+   print ("a is less than b")
+   print ('a is difinitetly less than b')
+print ("Not sure if a is less than b")
